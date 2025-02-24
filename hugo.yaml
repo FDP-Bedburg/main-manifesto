@@ -1,5 +1,11 @@
 # Hugo configuration file
-title: My Site
+title: Grundsatzprogramm der FDP Bedburg (Entwurf)
+
+defaultContentLanguage: de
+languages:
+  de:
+    languageName: Deutsch
+    weight: 1
 
 # import hextra as module
 module:
@@ -18,39 +24,47 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Grundsatzprogramm
+      pageRef: /programm
       weight: 1
-    - name: About
+    - name: Über uns
       pageRef: /about
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Homepage ↗
+      url: "https://fdp-bedburg.de"
       weight: 3
-    - name: Search
+    - name: Suche
       weight: 4
       params:
         type: search
-    - name: GitHub
+    - name: Instagram
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://www.instagram.com/fdp_bedburg/"
       params:
-        icon: github
-    - name: Twitter
+        icon: instagram
+    - name: Facebook
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://www.facebook.com/fdp.bedburg/"
       params:
-        icon: x-twitter
+        icon: facebook
 
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/fdp.png
+      dark: images/fdp.png
+      link: /
+      width: 110
+      height: 20
+    favicon: 
+      path: images/favicon.png
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"

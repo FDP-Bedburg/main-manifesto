@@ -1,17 +1,16 @@
 ---
-title: My Site
-toc: false
+title: Grundsatzprogramm der FDP Bedburg (Entwurf)
+toc: true
 ---
 
-This is the landing page.
+![Logo der FDP Bedburg](images/logo.png)
+
+Herzlich Wilkommen!
+Auf den folgenden Seiten finden Sie unser Grundsatzprogramm.
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="programm" title="Grundsatzprogramm" icon="book-open" >}}
+  {{< card link="about" title="Über uns" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
