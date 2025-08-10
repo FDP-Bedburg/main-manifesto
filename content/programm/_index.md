@@ -3,7 +3,7 @@ title: Grundsatzprogramm
 next: programm/wirtschaft
 ---
 
-![Logo Einleitung](/images/intro.png)
+<!-- ![Logo Einleitung](/images/intro.png) -->
 
 Bedburg steht vor einem neuen Kapitel. Die Zeit der Braunkohle geht zu Ende – doch das bedeutet nicht den Niedergang, sondern den Aufbruch. Der Strukturwandel findet bereits statt, ob wir ihn gestalten oder nur hinnehmen, liegt an uns. Jetzt ist der Moment, mutig voranzugehen, neue Chancen zu ergreifen und unsere Stadt als attraktiven Standort für Wirtschaft, Innovation und lebenswertes Wohnen zu entwickeln.
 
