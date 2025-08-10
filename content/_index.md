@@ -1,5 +1,5 @@
 ---
-title: Grundsatzprogramm der FDP Bedburg (Entwurf)
+title: Grundsatzprogramm der FDP Bedburg
 toc: true
 ---
 
@@ -11,6 +11,6 @@ Auf den folgenden Seiten finden Sie unser Grundsatzprogramm.
 ## Explore
 
 {{< cards >}}
-  {{< card link="programm" title="Grundsatzprogramm" icon="book-open" >}}
-  {{< card link="about" title="Über uns" icon="user" >}}
+{{< card link="programm" title="Grundsatzprogramm" icon="book-open" >}}
+{{< card link="about" title="Über uns" icon="user" >}}
 {{< /cards >}}
