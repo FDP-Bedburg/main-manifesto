@@ -58,8 +58,6 @@ params:
       link: /
       width: 110
       height: 20
-    favicon:
-      path: images/favicon.png
 
   footer:
     displayCopyright: false
