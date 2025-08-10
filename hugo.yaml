@@ -10,7 +10,7 @@ languages:
 # import hextra as module
 module:
   imports:
-  - path: github.com/imfing/hextra
+    - path: github.com/imfing/hextra
 
 markup:
   # allow raw html
@@ -31,7 +31,7 @@ menu:
       pageRef: /about
       weight: 2
     - name: Homepage ↗
-      url: "https://fdp-bedburg.de"
+      url: "https://www.fdp-bedburg.de"
       weight: 3
     - name: Suche
       weight: 4
@@ -58,7 +58,7 @@ params:
       link: /
       width: 110
       height: 20
-    favicon: 
+    favicon:
       path: images/favicon.png
 
   footer:
